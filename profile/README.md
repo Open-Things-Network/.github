@@ -2,4 +2,4 @@
 
 https://otwartasiecrzeczy.org
 
-[Wiki](/activity/wiki)
+[Wiki](https://github.com/Open-Things-Network/activity/wiki)
